@@ -1,4 +1,4 @@
-const prompt = require("prompt-sync")();
+//const prompt = require("prompt-sync")();
 /*let ex1 =  prompt("entrer votre informations personnelles");
 
 console.log("bonjour"+ ex1);*/
