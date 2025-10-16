@@ -72,8 +72,8 @@ function doubler(tab){
   return ttab;
 }
 
-const tablee = [3 , 5 , 7 , 2 , 4];
-const dbltable = doubler(tablee);
+let tablee = [3 , 5 , 7 , 2 , 4];
+let dbltable = doubler(tablee);
 console.log(dbltable);
 
 
