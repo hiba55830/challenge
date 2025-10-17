@@ -13,11 +13,12 @@ sommeTableau([24,7,16,8]);
 function maxTableau(tab){
     let max = tab[0];
     for (let i = 1 ; i < tab.length ; i++){
-        if(tab[i] > max){
+        if(tab[i] > max)
           max = tab[i];
         } 
+        return max ;
     }
-    return max ;  }
+      
 
     let tab2 = [23,4,5,32];
     let maxx = maxTableau(tab2);
