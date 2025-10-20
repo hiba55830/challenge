@@ -39,4 +39,4 @@ for(let i = 0 ; i < arr.length; i++){
     car = arr[i] * arr[i];
 }
 console.log(car);
-*/
+*/  

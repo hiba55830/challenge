@@ -86,4 +86,4 @@ function tableMultiplication(n){
     }
     return tab ;
 }
-console.log(tableMultiplication(2))
+console.log(tableMultiplication(2)) ;
